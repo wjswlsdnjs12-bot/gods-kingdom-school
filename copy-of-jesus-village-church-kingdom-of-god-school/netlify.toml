@@ -1,0 +1,4 @@
+[build]
+  base = "copy-of-jesus-village-church-kingdom-of-god-school"
+  command = "npm run build"
+  publish = "dist"
